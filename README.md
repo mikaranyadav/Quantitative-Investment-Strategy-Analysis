@@ -6,7 +6,8 @@ The goal of this project was not to find a profitable strategy, but to **build t
 
 ## 📈 Dashboard Preview
 
-**[YOUR-SCREENSHOT-HERE]**
+https://github.com/mikaranyadav/Quantitative-Investment-Strategy-Analysis/blob/main/Dashboard.png
+https://github.com/mikaranyadav/Quantitative-Investment-Strategy-Analysis/blob/main/Dashboard1.png
 
 ## 🛠️ Tech Stack
 * **Data Pipeline:** `yfinance`
@@ -34,4 +35,5 @@ The goal of this project was not to find a profitable strategy, but to **build t
 4.  **Run the dashboard!**
     ```bash
     streamlit run dashboard.py
+
     ```
