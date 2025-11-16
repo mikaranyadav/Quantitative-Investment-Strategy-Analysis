@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Generated Data - DO NOT UPLOAD
+*.csv
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
